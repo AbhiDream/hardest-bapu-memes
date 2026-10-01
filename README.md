@@ -3,7 +3,7 @@
 A single-page site where a dithered 3D Bapu head spins as you scroll. Memes that still won't get us banned.
 
 **Repo:** [FirePheonix/hardest-bapu-memes](https://github.com/FirePheonix/hardest-bapu-memes)
-**Live:** [hardest-bapu.vercel.app](https://hardest-bapu.vercel.app)
+**Live:** [hardest-bapu-memes.vercel.app](https://hardest-bapu-memes.vercel.app) · [hardest-bapu.vercel.app](https://hardest-bapu.vercel.app)
 
 ## Run locally
 
